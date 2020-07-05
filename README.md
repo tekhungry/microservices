@@ -1,29 +1,29 @@
 # microservices
-Tech stacks
+====================Tech stacks=======================
 
-Languages
+Languages :
 java 8
 Python
 
-Framework
+Framework : 
 Spring boot
 
-Containers/Orchestration
+Containers/Orchestration : 
 Docker
 Kubernetes
 
-Database
+Database : 
 MongoDB
 MySQL
 
-Logging
+Logging : 
 ELK stack
 
-Messaging bus
+Messaging bus : 
 Kafka
 
-Cloud
+Cloud : 
 AWS/GCP
 
-UI
+UI : 
 ReactJS/AngularJS
